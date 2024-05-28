@@ -17,17 +17,7 @@ Sou apaixonada por desenvolver soluções tecnológicas que possam melhorar a vi
 
 
 ### Estou à disposição, entre em contato pelos meus canais:
-<div>
-  <a style="margin-right: 15px;" href="mailto:linahthsu@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/linahsu" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.facebook.com/gabriel.dalseco.1/" target="_blank">
-    <img width="64px" alt="" src="./images/facebook.png" />
-  </a>
-</div>
+
 <a href="https://www.github.com/linahsu"><img alt="Static Badge" src="https://img.shields.io/badge/My-Github-black"></a>
 
 <a href="https://www.linkedin.com/in/linahsu/"><img alt="Static Badge" src="https://img.shields.io/badge/My-Linkedin-blue"></a>
@@ -55,6 +45,19 @@ Sou apaixonada por desenvolver soluções tecnológicas que possam melhorar a vi
 - JWT (Json Web Token)
 <!--
 **linahsu/linahsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div>
+
+  <a style="margin-right: 15px;" href="mailto:linahthsu@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="./images/gmail.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/linahsu" target="_blank">
+    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.facebook.com/gabriel.dalseco.1/" target="_blank">
+    <img width="64px" alt="" src="./images/facebook.png" />
+  </a>
+</div>
 
 Here are some ideas to get you started:
 
