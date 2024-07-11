@@ -36,11 +36,16 @@ Sou apaixonada por desenvolver soluções tecnológicas que possam melhorar a vi
 - CSS
 - React.js
 - MySQL
+- MongoDB
 - Express
 - Sequelize
+- Flask
+- FastAPI
+- Django
 - Jest
 - Mocha
 - RTL (React Testing Library)
+- Pytest
 - Docker
 - JWT (Json Web Token)
 <!--
